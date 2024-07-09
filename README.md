@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋,  I'm Pius</h1>
-<h3 align="center">A highly motivated and pationate Software Engineer</h3>
+<h3 align="center">Your highly motivated and pationate Software Engineer</h3>
 
 
 
