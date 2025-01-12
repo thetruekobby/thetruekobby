@@ -32,7 +32,7 @@ _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
 
 <!--Statistics -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codemyhobby100&" alt="codemyhobby100" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thetruekobby&" alt="thetruekobby stats" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piusagyekum&show_icons=true&locale=en" alt="" /></p>
 
